@@ -1,0 +1,4 @@
+2025-01-01T23:04:46,019 - HandlerTime.ms:3857.51|#ModelName:densenet161,Level:Model|#hostname:LAPTOP-K5A5D0SQ,requestID:41254616-b0c5-4e32-b9c4-8214c9f9c2e5,timestamp:1735743886
+2025-01-01T23:04:46,019 - PredictionTime.ms:3857.51|#ModelName:densenet161,Level:Model|#hostname:LAPTOP-K5A5D0SQ,requestID:41254616-b0c5-4e32-b9c4-8214c9f9c2e5,timestamp:1735743886
+2025-01-01T23:08:01,841 - HandlerTime.ms:7596.47|#ModelName:densenet161,Level:Model|#hostname:LAPTOP-K5A5D0SQ,requestID:23ca6b79-d8bf-4ebe-bdae-871255efeebe,timestamp:1735744081
+2025-01-01T23:08:01,853 - PredictionTime.ms:7612.09|#ModelName:densenet161,Level:Model|#hostname:LAPTOP-K5A5D0SQ,requestID:23ca6b79-d8bf-4ebe-bdae-871255efeebe,timestamp:1735744081

@@ -1,0 +1,36 @@
+2025-01-01T22:48:00,225 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-01T22:48:00,237 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Successfully loaded D:\soft\Anaconda\Anaconda\envs\torchserve\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-01T22:48:00,237 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - [PID]11268
+2025-01-01T22:48:00,237 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-01T22:48:00,237 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Python runtime: 3.9.21
+2025-01-01T22:48:00,282 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-01T22:48:00,338 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - model_name: densenet161, batchSize: 1
+2025-01-01T22:48:06,394 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - generated new fontManager
+2025-01-01T22:48:07,173 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Your torch version is 1.12.0+cu113 which does not support torch.compile
+2025-01-01T22:48:07,173 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-01T22:48:07,173 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-01-01T22:48:07,173 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-01T22:51:43,502 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-01T22:51:43,502 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Successfully loaded D:\soft\Anaconda\Anaconda\envs\torchserve\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-01T22:51:43,502 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - [PID]4544
+2025-01-01T22:51:43,502 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-01T22:51:43,502 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Python runtime: 3.9.21
+2025-01-01T22:51:43,535 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-01T22:51:43,551 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - model_name: densenet161, batchSize: 1
+2025-01-01T22:51:44,359 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Your torch version is 1.12.0+cu113 which does not support torch.compile
+2025-01-01T22:51:44,359 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-01T22:51:44,375 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-01-01T22:51:44,375 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-01T23:04:42,146 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Backend received inference at: 1735743882
+2025-01-01T23:06:04,116 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Listening on addr:port: 127.0.0.1:9000
+2025-01-01T23:06:04,116 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Successfully loaded D:\soft\Anaconda\Anaconda\envs\torchserve\Lib\site-packages/ts/configs/metrics.yaml.
+2025-01-01T23:06:04,116 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - [PID]10996
+2025-01-01T23:06:04,116 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Torch worker started.
+2025-01-01T23:06:04,116 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Python runtime: 3.9.21
+2025-01-01T23:06:04,161 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Connection accepted: ('127.0.0.1', 9000).
+2025-01-01T23:06:04,225 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - model_name: densenet161, batchSize: 1
+2025-01-01T23:06:05,080 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Your torch version is 1.12.0+cu113 which does not support torch.compile
+2025-01-01T23:06:05,080 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - OpenVINO is not enabled
+2025-01-01T23:06:05,096 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - proceeding without onnxruntime
+2025-01-01T23:06:05,096 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2025-01-01T23:07:54,229 [INFO ] W-9000-densenet161_1.0-stdout MODEL_LOG - Backend received inference at: 1735744074
