@@ -137,8 +137,6 @@ E:\torchserver>curl http://127.0.0.1:8080/predictions/densenet161 -T kitten_smal
 
 
 
-
-
 其他部署框架：
 
 ```
@@ -146,4 +144,20 @@ Flask
 FastAPI
 TorchServe
 ```
+
+
+
+2025-1-5更新：
+
+对于生成式模型，应该只能用脚本模式来生成部署，而不是渴望模式（eager），具体见下:
+
+[serve/examples/image_classifier/densenet_161 at master ·pytorch/serve](https://github.com/pytorch/serve/tree/master/examples/image_classifier/densenet_161)
+
+那handler也要自己写吗，自带的handler有哪几个啊，在哪里？
+
+具体写法可以借鉴：
+
+[【torchserve使用最终篇】修改handler文件来实现自己的推理流程|部署onnx模型|部署tensorrt模型_torchserve handler-CSDN博客](https://blog.csdn.net/m0_61139217/article/details/126328027)
+
+
 
